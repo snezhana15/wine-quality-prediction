@@ -1,2 +1,3 @@
-# wine-quality-prediction
-A beginner data science project predicting wine quality using machine learning.
+# Wine Quality Prediction
+
+Predicting wine quality using data science and machine learning.
